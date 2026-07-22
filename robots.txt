@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-7nyg6u.idncuan.xyz/sitemap.xml
